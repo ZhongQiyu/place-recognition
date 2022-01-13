@@ -31,6 +31,7 @@ class Constants:
         self.HEIC = ".heic"
         self.IMG = "IMG"
         self.MOV = ".MOV"
+        self.BOUND = 10
         self.MAX_INDEX = 9999
         self.RGB_RANGE = 256
         self.IMG_LENGTH = 4032
